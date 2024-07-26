@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WP01.props" />
+</Project>
